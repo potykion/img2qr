@@ -1,0 +1,2 @@
+-r common.txt
+pyzbar==0.1.5

@@ -34,7 +34,7 @@ pip install pyzbar
 ### Linux
 
 ```
-sudo apt-get install libzbar0
+sudo apt-get install libzbar-dev
 ```
 
 ## Other libs
